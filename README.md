@@ -1,6 +1,6 @@
 # Fullstack ML PDF Extraction Task
 
-This repository contains a Fullstack Machine Learning project focused on extracting structured text data (such as names, emails, and phone numbers) from PDF documents. It includes both backend and frontend implementations to process PDFs and display the extracted data.
+This repository contains a Fullstack project focused on extracting structured text data (such as names, emails, and phone numbers) from PDF documents. It includes both backend and frontend implementations to process PDFs and display the extracted data.
 
 ---
 
